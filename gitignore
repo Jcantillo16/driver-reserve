@@ -12,3 +12,20 @@ venv/*
 .venv/
 
 venv
+gitignore
+gitignore
+
+.gitignore
+
+/.gitignore
+/.idea
+/.idea/*
+
+.git_toolbox_prj
+
+/.git_toolbox_prj
+/.git_toolbox_prj/*
+
+*.iml
+
+/*.iml

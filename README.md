@@ -4,6 +4,7 @@
 
 
 Python 3.10
+Base de datos: SQLite (10 tablas)
 
 install python 3.10
 
@@ -47,6 +48,11 @@ aqui tambien se encuentran las funciones de crear un pago y validar el pago.
 
 En el modulo de shedule se encuentra la clase shedule, que contiene los datos del horario, como el id del conductor, hora de inicio, hora de fin, etc.
 aqui tambien se encuentran las funciones de crear un horario y validar el horario.
+
+
+##Documentacion de la API REST POSTMAN
+
+[https://documenter.getpostman.com/view/18241310/2s8YYPJ1C](https://documenter.getpostman.com/view/18241310/2s8YYPJ1CH)H
 
 
 
