@@ -1,0 +1,14 @@
+
+.idea
+.idea/*
+*.iml
+*.iml
+*.ipr
+.venv
+/venv
+venv/
+venv/*
+.venv/*
+.venv/
+
+venv
